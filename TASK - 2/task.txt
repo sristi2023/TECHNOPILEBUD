@@ -10,4 +10,3 @@ styling for the input fields and the entire form such as field size,
 background color and much more. Also, JavaScript can be used
 in the form for validation tasks like character limit for input fields,
 email id format validation, etc. **ONLY SURVEY FORM**
-Survey Form Questions Link is on next Page.
